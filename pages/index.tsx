@@ -22,7 +22,7 @@ const Index = () => (
 
 				<p className='text-sm text-zinc-600 dark:text-zinc-400'>
 					<a
-						href='https://github.com/mvllow/next-pwa-template'
+						href='https://github.com/susahcebok/pwa'
 						className='underline'
 					>
 						Source
